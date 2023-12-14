@@ -1,0 +1,5 @@
+    PID TTY          TIME CMD
+   2518 pts/0    00:00:00 bash
+   5722 pts/0    00:00:00 git
+   5734 pts/0    00:00:00 git
+   5735 pts/0    00:00:00 editor

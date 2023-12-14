@@ -1,0 +1,12 @@
+pseudocode to write code for a text file using simple Java:
+Create a new Java file. 
+Import the java.io.File and java.io.FileWriter classes. 
+Declare a variable of type File and assign it the path to the text file you want to create. 
+Declare a variable of type FileWriter and assign it the File object you created in the previous step. 
+Call the open() method on the FileWriter object. 
+Write the desired text to the file using the write() method on the FileWriter object. 
+Call the close() method on the FileWriter object.
+public static void main(String[] args) { }
+public static final double PI = 3.14159; 
+public class File 
+return  
